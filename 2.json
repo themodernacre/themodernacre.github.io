@@ -1,0 +1,12 @@
+{
+  "description": "Farmland",
+  "external_url": "https://mint.themodernacre.com/",
+  "image": "http://localhost:3000/Farmland.jpg",
+  "name": "Farmland",
+  "attributes": [
+    {
+      "trait_type": "TheModernAcreNFT",
+      "value": "Farmland"
+    }
+  ]
+}

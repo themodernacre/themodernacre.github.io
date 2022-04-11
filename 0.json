@@ -1,0 +1,12 @@
+{
+  "description": "Barnhouse",
+  "external_url": "https://mint.themodernacre.com/",
+  "image": "http://localhost:3000/Barnhouse.jpg",
+  "name": "Barnhouse",
+  "attributes": [
+    {
+      "trait_type": "TheModernAcreNFT",
+      "value": "Barnhouse"
+    }
+  ]
+}

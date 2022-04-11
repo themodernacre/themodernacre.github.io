@@ -1,0 +1,12 @@
+{
+  "description": "DollarBill",
+  "external_url": "https://mint.themodernacre.com/",
+  "image": "http://localhost:3000/DollarBill.jpg",
+  "name": "DollarBill",
+  "attributes": [
+    {
+      "trait_type": "TheModernAcreNFT",
+      "value": "DollarBill"
+    }
+  ]
+}

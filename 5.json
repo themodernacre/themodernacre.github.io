@@ -1,0 +1,12 @@
+{
+  "description": "Tractor",
+  "external_url": "https://mint.themodernacre.com/",
+  "image": "http://localhost:3000/Tractor.jpg",
+  "name": "Tractor",
+  "attributes": [
+    {
+      "trait_type": "TheModernAcreNFT",
+      "value": "Tractor"
+    }
+  ]
+}
