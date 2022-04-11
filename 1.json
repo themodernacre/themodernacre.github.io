@@ -1,8 +1,8 @@
 {
-  "description": "DollarBill",
-  "external_url": "https://mint.themodernacre.com/",
-  "image": "http://localhost:3000/DollarBill.jpg",
-  "name": "DollarBill",
+  "description": "TMA Co-op Crypto - Member Pass",
+  "external_url": "https://themodernacre.github.io/",
+  "image": "https://themodernacre.github.io/DollarBill.jpg",
+  "name": "TMA Co-op Crypto - Member Pass",
   "attributes": [
     {
       "trait_type": "TheModernAcreNFT",

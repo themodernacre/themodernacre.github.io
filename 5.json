@@ -1,12 +1,12 @@
 {
-  "description": "Tractor",
-  "external_url": "https://mint.themodernacre.com/",
-  "image": "http://localhost:3000/Tractor.jpg",
-  "name": "Tractor",
+  "description": "TMA Co-op Tractor - Member Pass",
+  "external_url": "https://themodernacre.github.io/",
+  "image": "https://themodernacre.github.io/Tractor.jpg",
+  "name": "TMA Co-op Tractor - Member Pass",
   "attributes": [
     {
       "trait_type": "TheModernAcreNFT",
-      "value": "Tractor"
+      "value": "Powered by ETH"
     }
   ]
 }

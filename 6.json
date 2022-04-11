@@ -1,12 +1,12 @@
 {
-  "description": "MentorPass",
-  "external_url": "https://mint.themodernacre.com/",
-  "image": "http://localhost:3000/MentorPass.jpg",
-  "name": "MentorPass",
+  "description": "TMA Co-op Shovel - Mentor Pass",
+  "external_url": "https://themodernacre.github.io/",
+  "image": "https://themodernacre.github.io/MentorPass.jpg",
+  "name": "TMA Co-op Shovel - Mentor Pass",
   "attributes": [
     {
       "trait_type": "TheModernAcreNFT",
-      "value": "MentorPass"
+      "value": "Let's Build"
     }
   ]
 }

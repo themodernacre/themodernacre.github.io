@@ -1,12 +1,12 @@
 {
-  "description": "RoboticArm",
-  "external_url": "https://mint.themodernacre.com/",
-  "image": "http://localhost:3000/RoboticArm.jpg",
-  "name": "RoboticArm",
+  "description": "TMA Co-op AgTech - Member Pass",
+  "external_url": "https://themodernacre.github.io/",
+  "image": "https://themodernacre.github.io/RoboticArm.jpg",
+  "name": "TMA Co-op AgTech - Member Pass",
   "attributes": [
     {
       "trait_type": "TheModernAcreNFT",
-      "value": "RoboticArm"
+      "value": "HODL Robot"
     }
   ]
 }

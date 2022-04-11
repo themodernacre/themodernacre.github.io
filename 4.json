@@ -1,12 +1,12 @@
 {
-  "description": "ToTheMoonWine",
-  "external_url": "https://mint.themodernacre.com/",
-  "image": "http://localhost:3000/ToTheMoonWine.jpg",
-  "name": "ToTheMoonWine",
+  "description": "TMA Co-op CPG - Member Pass",
+  "external_url": "https://themodernacre.github.io/",
+  "image": "https://themodernacre.github.io/ToTheMoonWine.jpg",
+  "name": "TMA Co-op CPG - Member Pass",
   "attributes": [
     {
       "trait_type": "TheModernAcreNFT",
-      "value": "ToTheMoonWine"
+      "value": "Wagmi Wine"
     }
   ]
 }
