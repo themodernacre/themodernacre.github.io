@@ -1,0 +1,12 @@
+{
+  "description": "TMA Co-op AgTech - Member Pass",
+  "external_url": "https://themodernacre.github.io/",
+  "image": "https://themodernacre.github.io/RoboticArm.jpg",
+  "name": "TMA Co-op AgTech - Member Pass",
+  "attributes": [
+    {
+      "trait_type": "Co-op Variety",
+      "value": "HODL Robot"
+    }
+  ]
+}

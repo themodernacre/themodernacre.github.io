@@ -1,0 +1,12 @@
+{
+  "description": "TMA Co-op Barn - Member Pass",
+  "external_url": "https://themodernacre.github.io/",
+  "image": "https://themodernacre.github.io/Barnhouse.jpg",
+  "name": "TMA Co-op Barn - Member Pass",
+  "attributes": [
+    {
+      "trait_type": "Co-op Variety",
+      "value": "Crypto Farms"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "description": "TMA Co-op Tractor - Member Pass",
+  "external_url": "https://themodernacre.github.io/",
+  "image": "https://themodernacre.github.io/Tractor.jpg",
+  "name": "TMA Co-op Tractor - Member Pass",
+  "attributes": [
+    {
+      "trait_type": "Co-op Variety",
+      "value": "Powered by ETH"
+    }
+  ]
+}
